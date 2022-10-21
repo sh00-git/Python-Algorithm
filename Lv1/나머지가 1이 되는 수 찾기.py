@@ -1,3 +1,4 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/87389
 def solution(n):
     min_num = 0
 
